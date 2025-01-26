@@ -14,7 +14,7 @@
 
 ## 기대 효과
 
-1.  사용자는 스마트폰으로 촬영한 동영상만으로 고가의 장비 없이 손쉽게 공간 이미지를 제작할 수 있습니다.
+1. 사용자는 스마트폰으로 촬영한 동영상만으로 고가의 장비 없이 손쉽게 공간 이미지를 제작할 수 있습니다.
 2. 사용자가 생성한 공간 이미지는 가상 현실 플랫폼의 배경으로 활용될 수 있습니다.
 3. 문화체육관광부 및 지방자치단체와의 협업을 통해 관광객 유치 등을 통한 지역 사회 발전을 도모할 수 있습니다.
 4. 화재 현장의 발화 지점에 대한 의견 공유 시스템과 같이 사건 현장 철수 후의 재확인을 위한 서비스에 사용될 수 있습니다.
@@ -51,11 +51,15 @@
 
 ![011](https://github.com/user-attachments/assets/a99d36ed-87a7-4aa1-b9e8-f8c51699e780)
 
+---
+
 ### SRCNN 기반 자체 제작 모델, SRCNN-PANO
 
 ![014](https://github.com/user-attachments/assets/c5b58bd9-4b0d-438a-b0ff-d36659fb1476)
 
 ![015](https://github.com/user-attachments/assets/77fb6ae8-3714-4604-b417-413728c970a0)
+
+---
 
 ### 관련 성능 평가
 
@@ -68,6 +72,8 @@
 ![019](https://github.com/user-attachments/assets/dda58ec1-0bac-45d7-b93e-590c9ed52d64)
 
 </div>
+
+---
 
 ### 동영상으로 입력받는 이유
 
@@ -117,6 +123,12 @@
 ![031](https://github.com/user-attachments/assets/7f57be15-1767-4d09-bcd3-f336432a8216)
 
 ![032](https://github.com/user-attachments/assets/faaabb88-928f-4402-8073-16425206b135)
+
+![037](https://github.com/user-attachments/assets/41c7dc81-95d9-4ee0-934d-b8ec1c585b78)
+
+![035](https://github.com/user-attachments/assets/38a6fe14-626d-43f4-b710-079f72bdb88f)
+
+![038](https://github.com/user-attachments/assets/81e9aabe-3d52-436a-8180-d078047114b7)
 
 ---
 
